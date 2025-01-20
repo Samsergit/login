@@ -106,4 +106,7 @@ websockets==14.1
 wheel==0.45.1
 wrapt==1.17.1
 wsproto==1.2.0
+<<<<<<< HEAD
 firebase                 4.0.1
+=======
+>>>>>>> 64683b9 (primer commit)
