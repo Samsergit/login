@@ -80,8 +80,3 @@ class Usuarios(Registros):
         """
         print("Pendiente de implementación.")
     
-    def helper(self):
-        """
-        Función de ayuda para mostrar los métodos disponibles (pendiente de implementación).
-        """
-        print("Pendiente de implementación.")
